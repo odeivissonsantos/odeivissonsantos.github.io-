@@ -1,0 +1,23 @@
+.row {
+    padding-top: 20px;
+}
+
+div {
+    text-align: center;
+}
+
+.descricao {
+    text-align: justify;
+}
+
+.featurette-heading-hobbie {
+    text-align: right;
+}
+
+.lead-hobbie {
+    text-align: right;
+}
+
+p#leadhobbie {
+    text-align: right;
+}
