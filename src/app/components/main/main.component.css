@@ -1,3 +1,7 @@
+.carousel-item {
+    height: 30rem;
+}
+
 .row {
     padding-top: 20px;
 }
