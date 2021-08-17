@@ -1,9 +1,9 @@
 li {
-        display: inline-block;
+        display: inline-flex;
         margin-right: 15px;
         margin-top: 10px;
 }
+
 .logo{
         margin-left: 15px;
 }
-
